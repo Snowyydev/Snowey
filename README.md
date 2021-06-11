@@ -1,0 +1,2 @@
+# Snowey
+My discord bot
